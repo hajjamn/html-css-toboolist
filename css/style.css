@@ -46,6 +46,7 @@ main {
 .buttons-section {
     border-bottom: 2px solid #F6F8F9;
     padding-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .button-container {
@@ -68,4 +69,47 @@ main {
 
 .task-button-hightlighted {
     color: white;
+}
+
+.element-container {
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.true-false-container {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+}
+
+.true-element {
+    color:#64C0A8;
+    border-color: #64C0A8;
+}
+
+.false-element {
+    color: red;
+    border-color: red;
+}
+
+.task-element {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.tag-container {
+    display: inline-block;
+    border-radius: 15px;
+    font-size: 14px;
+    color: white;
+    padding: 0 10px;
+}
+
+.tag-editorial {
+    background-color: #47ADF1;
 }
