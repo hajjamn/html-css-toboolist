@@ -21,8 +21,8 @@ body {
     background-color: #F6F8F9;
 }
 
-main {
-
+section {
+    margin-bottom: 40px;
 }
 
 .logo-container {
@@ -112,4 +112,24 @@ main {
 
 .tag-editorial {
     background-color: #47ADF1;
+}
+
+.tag-q1goals {
+    background-color: #9C72E4;
+}
+
+.tag-recruiting {
+    background-color: #64C0A8;
+}
+
+.tag-mobile {
+    background-color: #F29E33;
+}
+
+.tag-website {
+    background-color: #D863A0;
+}
+
+.tag-sales {
+    background-color: #B0C926;
 }
